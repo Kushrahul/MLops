@@ -1,5 +1,7 @@
 Title: The MLOps Lifecycle: Integrating DevOps, DataOps, and ModelOps
 
+Do some changes 
+
 Introduction
 
 Machine Learning Operations, or MLOps, is a crucial framework in the world of artificial intelligence and machine learning. 
